@@ -1,0 +1,13 @@
+{
+  "name": "Metro’s Sports Hub",
+  "short_name": "Metro’s Hub",
+  "description": "Live scores, league standings, and player leaders in a dark-mode sports hub.",
+  "start_url": "./#scores",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0e13",
+  "theme_color": "#0b0e13",
+  "icons": [
+    { "src": "./metro-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
