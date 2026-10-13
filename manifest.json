@@ -1,9 +1,7 @@
 {
   "name": "Metro’s Sports Hub",
   "short_name": "Metro Sports",
-  "description": "Live scores, standings, and player leaders across major leagues.",
   "start_url": "./",
-  "scope": "./",
   "display": "standalone",
   "background_color": "#0b0e13",
   "theme_color": "#0b0e13",
